@@ -13,4 +13,5 @@ Instructions:
 - Run KNNRecs.py for Content Recommendation, SVD results
 - Run CF.py for collaborative filtering algorithms
 - change  testSubject from User 75 to other users at line 212 of evaluator.py
-    -`    def SampleTopNRecs(self, ml, testSubject=75, k=10):`
+    
+    `    def SampleTopNRecs(self, ml, testSubject=75, k=10):`
