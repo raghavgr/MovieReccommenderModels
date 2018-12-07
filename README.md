@@ -4,9 +4,9 @@ Implementation of models was inspired from the resources provided in this course
 https://www.udemy.com/building-recommender-systems-with-machine-learning-and-ai/ 
 
 Code distribution:
-EDA, Content-Recommendation: Sai
-User-User CF, Item-item CF, Results: Keng, Andreas
-Matrix SVD, Debugging, Refactoring: Yifei, Andreas
+- EDA, Content-Recommendation: Sai
+- User-User CF, Item-item CF, Results: Keng, Andreas
+- Matrix SVD, Debugging, Refactoring: Yifei, Andreas
 
 Instructions:
 - Install the required libraries listed in pip3req.txt using pip3
